@@ -11,7 +11,7 @@ export function WAICard() {
                 <p className="wai-card-title font-roboto font-bold leading-[3rem]">Hello,</p>
                 <p className="wai-card-subtitle font-roboto font-light leading-[1rem]">I am Nahuel.</p>
                 <p className="wai-card-subtitle font-roboto font-light leading-[1rem]">Let me know how can I help you,</p>
-                <a href="mailto:nahuel@nahuelavila.com" className="contact-me text-white border rounded-full p-1">let&apos;s chat!</a>
+                <a href="mailto:nahuel@nahuelavila.com" className="contact-me text-white border rounded-full p-1 hover:bg-white hover:text-black">let&apos;s chat!</a>
             </article>
         </div>
     )
