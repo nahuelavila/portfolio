@@ -7,7 +7,7 @@ export default function Home() {
     <main>
       <Head>
         <title>Nahuel Avila</title>
-        <meta name="description" content="Nahuel Avila's portfolio" />
+        <meta name="description" content="Nahuel Avila&apos;s portfolio" />
         <meta name="viewport" content="width=device-width"/>
       </Head>
       {/* <section className="header">header</section> */}
