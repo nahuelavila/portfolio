@@ -1,0 +1,20 @@
+import Image from 'next/image'
+
+export function WIDCard() {
+    return(
+        <div className="whatido wid-card-container p-12 grid place-content-center">
+            <article className="grid place-content-center text-center gap-6">
+                <div className="horizontal-line bg-white/10 h-0.5 "></div>
+                <p className="wid-card-title font-bold leading-[3rem]">What can I offer you?</p>
+                <div className="wid-skills">
+                    <p className="wid-card-subtitle font-light leading-[1rem]">
+                        I&apos;m skilled on a variety of technologies such as
+                        <Image className="inline ml-1.5" alt="python" width='22' height='22' src="/python.svg" />
+                        <Image className="inline ml-1.5" alt="javascript" width='22' height='22' src="/js.svg" />
+                        <Image className="inline ml-1.5" alt="nodejs" width='22' height='22' src="/nodejs.svg" />
+                    </p>
+                </div>
+            </article>
+        </div>
+    )
+}

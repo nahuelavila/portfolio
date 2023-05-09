@@ -8,16 +8,14 @@
 }
 
 body {
-  background-color: #070707;
+  background-color: #07070743;
 }
+
+/* WAI Card */
 
 .whoami {
-  background-color: #48e5c2;
-}
-
-/* .wai-card-container {
   background-color: #070707;
-} */
+}
 
 .wai-card-title {
   font-family: 'Roboto', sans-serif;
@@ -27,4 +25,20 @@ body {
 
 .wai-card-subtitle {
   color: white;
+}
+
+/* WID Card */
+
+.whatido {
+  background-color: #ffffff;
+}
+
+.wid-card-title {
+  font-family: 'Roboto', sans-serif;
+  font-size: 3.8rem;
+  color: black;
+}
+
+.wid-card-subtitle {
+  color: black;
 }
