@@ -5,7 +5,7 @@ export function WIDCard() {
         <div className="whatido wid-card-container p-6 sm:p-12 grid place-content-center">
             <article className="grid place-items-center text-center gap-6">
                 <div className="horizontal-line bg-white/10 h-0.5 "></div>
-                <p className="wid-card-title font-bold text-[3rem] leading-[2.5rem] sm:text-[3.8rem] sm:leading-[3rem]">What can I do?</p>
+                <p className="wid-card-title font-bold text-[3rem] leading-[2.5rem] sm:text-[3.8rem] sm:leading-[3rem]">What I am good at?</p>
                 <Image className='grid place-items-center' width='256' height='256' src='/computer.svg' />
                 <div className="wid-skills">
                     <p className="wid-card-subtitle font-light sm:leading-[1rem]">
