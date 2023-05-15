@@ -8,13 +8,10 @@ export default function Home() {
       <Head>
         <title>Nahuel Avila</title>
         <meta name="description" content="Nahuel Avila&apos;s portfolio" />
-        <meta name="viewport" content="width=device-width"/>
+        <meta name="viewport" content="width=device-width" />
       </Head>
-      {/* <section className="header">header</section> */}
-      <section className="whoamai-card">
-        <WAICard />
-        <WIDCard />
-      </section>
+      <WAICard />
+      <WIDCard />
     </main>
   );
 }

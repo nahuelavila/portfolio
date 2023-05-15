@@ -5,7 +5,7 @@ export function WAICard() {
         <div className="whoami relative wai-card-container p-12 w-full grid place-content-center h-screen sm:min-h-[40rem] min-h-[35rem]">
             <article className="grid place-content-center w-64 text-center gap-6">
                 <picture>
-                    <img className="wai-card-img w-full shadow-xl rounded-full" alt='profile photo' src="https://media.licdn.com/dms/image/C4E03AQE0I-L1hA4B6g/profile-displayphoto-shrink_400_400/0/1619910838000?e=1687996800&v=beta&t=B4zZv9lmPjajgKKXiIyx_lLshzWOLAqg1gPkEfcdkoE" />
+                    <img className="wai-card-img w-full rounded-full" alt='profile photo' src="/me.png" />
                 </picture>
                 <div className="horizontal-line bg-white/10 h-0.5 "></div>
                 <p className="wai-card-title font-roboto font-bold leading-[3rem]">Hello,</p>
