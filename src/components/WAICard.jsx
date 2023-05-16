@@ -8,13 +8,13 @@ export function WAICard() {
                     <img className="wai-card-img w-full shadow-xl rounded-full" alt='profile photo' src="/me.png" />
                 </picture>
                 <div className="horizontal-line bg-white/10 h-0.5 "></div>
-                <p className="wai-card-title font-roboto font-bold leading-[3rem]">Hello,</p>
+                <h1 className="wai-card-title font-roboto font-bold leading-[3rem]">Hello,</h1>
                 <p className="wai-card-subtitle font-roboto font-light leading-[1rem]">I am Nahuel.</p>
                 <p className="wai-card-subtitle font-roboto font-light leading-[1rem]">Let me know how can I help you,</p>
                 <a href="mailto:nahuel@nahuelavila.com" className="contact-me text-white border rounded-full p-1 hover:bg-white hover:text-black">let&apos;s chat!</a>
             </article>
             <div className="go-down relative grid place-content-center top-16 sm:top-24">
-                <Image className="go-down-img animate-bounce" src="/arrow-down-solid.svg" height='24' width='24' />
+                <Image className="go-down-img animate-bounce" alt="go down btn" src="/arrow-down-solid.svg" height='24' width='24' />
             </div>
         </div>
     )
