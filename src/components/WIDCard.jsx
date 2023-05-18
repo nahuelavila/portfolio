@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 export function WIDCard() {
     return(
-        <div className="whatido wid-card-container p-6 sm:p-12 grid place-content-center bg-[#ffffff]">
+        <div id="whatido" className="whatido wid-card-container p-6 sm:p-12 grid place-content-center bg-[#ffffff]">
             <article className="grid place-items-center text-center gap-6">
                 <div className="horizontal-line bg-white/10 h-0.5" />
                 <h1 className="wid-card-title font-bold text-[3rem] leading-[2.5rem] sm:text-[3.8rem] sm:leading-[3rem]">What I am good at?</h1>
