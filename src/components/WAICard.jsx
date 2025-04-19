@@ -26,7 +26,7 @@ export function WAICard() {
                 <div className="horizontal-line bg-white/10 h-0.5"></div>
                 <h1 className="wai-card-title font-roboto font-bold text-4xl md:text-5xl leading-tight">Hi there! 👋</h1>
                 <div className="space-y-2">
-                    <p className="wai-card-subtitle font-roboto font-light text-lg md:text-xl">I'm Nahuel Avila</p>
+                    <p className="wai-card-subtitle font-roboto font-light text-lg md:text-xl">I&apos;m Nahuel Avila</p>
                     <p className="wai-card-subtitle font-roboto font-light text-lg md:text-xl">Software Developer</p>
                     <p className="wai-card-subtitle font-roboto font-light text-sm md:text-base flex items-center justify-center gap-1">
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">

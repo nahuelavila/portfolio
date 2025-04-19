@@ -17,20 +17,20 @@ export function WIDCard() {
                 />
                 <div className="sm:mt-5 mt-10 wid-skills text-justify space-y-4">
                     <p className="wid-card-subtitle font-light text-lg leading-relaxed text-gray-700">
-                        Based in Montevideo, Uruguay, I'm a passionate <span className='italic'>Software Developer</span> with a focus on creating innovative and efficient solutions, having also a strong knowledge of software and testing methodologies.
+                        Based in Montevideo, Uruguay, I&apos;m a passionate <span className='italic'>Software Developer</span> with a focus on creating innovative and efficient solutions, having also a strong knowledge of software and testing methodologies.
                     </p>
                     <p className="wid-card-subtitle font-light text-lg leading-relaxed text-gray-700">
                         In my role, I focus on developing scalable and efficient solutions that meet the needs of the business and the users.
                     </p>
                     <p className="wid-card-subtitle font-light text-lg leading-relaxed text-gray-700">
-                        Currently I work as a <span className='italic'>Software Quality Assurance Engineer</span>, but I'm always looking for new challenges and opportunities to grow.
+                        Currently I work as a <span className='italic'>Software Quality Assurance Engineer</span>, but I&apos;m always looking for new challenges and opportunities to grow.
                     </p>
                     <SkillsSection />
                     <p className="wid-card-subtitle font-light text-lg leading-relaxed text-gray-700">
-                        Beyond work, I'm an avid tech enthusiast who enjoys experimenting with new technologies, streaming content, and continuously expanding my knowledge in the ever-evolving tech landscape.
+                        Beyond work, I&apos;m an avid tech enthusiast who enjoys experimenting with new technologies, streaming content, and continuously expanding my knowledge in the ever-evolving tech landscape.
                     </p>
                     <p className="wid-card-subtitle font-medium text-lg leading-relaxed text-gray-800">
-                        I believe in creating quality-driven solutions that make a difference. Whether it's ensuring software reliability or building innovative features, I'm always ready for new challenges!
+                        I believe in creating quality-driven solutions that make a difference. Whether it&apos;s ensuring software reliability or building innovative features, I&apos;m always ready for new challenges!
                     </p>
                 </div>
             </article>
