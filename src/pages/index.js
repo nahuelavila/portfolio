@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import { WAICard } from "../components/WAICard.jsx";
 import { WIDCard } from "../components/WIDCard.jsx";
+import { Footer } from "../components/Footer.jsx";
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
       </Head>
       <WAICard />
       <WIDCard />
+      <Footer />
     </main>
   );
 }

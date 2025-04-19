@@ -4,7 +4,6 @@
 @tailwind utilities;
 
 /* Hide scrollbar for Chrome, Safari and Opera */
-
 html {
   scroll-behavior: smooth;
 }
@@ -22,10 +21,8 @@ body {
 }
 
 /* WAI Card */
-
 .wai-card-title {
   font-family: 'Roboto', sans-serif;
-  font-size: 3.8rem;
   color: white;
 }
 
@@ -38,7 +35,6 @@ body {
 }
 
 /* WID Card */
-
 .wid-card-title {
   font-family: 'Roboto', sans-serif;
   color: black;
@@ -46,4 +42,8 @@ body {
 
 .wid-card-subtitle {
   color: black;
+}
+
+.wid-box {
+  border: 1px outset black;
 }
