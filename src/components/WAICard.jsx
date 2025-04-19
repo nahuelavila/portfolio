@@ -51,7 +51,7 @@ export function WAICard() {
                     href="mailto:nahuel@nahuelavila.com" 
                     className="contact-me text-white border-2 rounded-full py-2 px-6 hover:bg-white hover:text-black transition-colors duration-300 inline-block mt-4 text-lg"
                 >
-                    let's chat!
+                    let&apos;s chat!
                 </a>
             </article>
             <div className="arrow-down-text mt-16">
