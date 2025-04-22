@@ -8,7 +8,7 @@ export default function Home() {
     <main>
       <Head>
         <title>Nahuel Avila | Website</title>
-        <meta name="description" content="Welcome to my website! How can I help you? Keep in mind that this website is still under construction." />
+        <meta name="description" content="Web developer with strong experience in testing and software development, specialized in React and Node.js. Focused on building efficient, scalable, and user-centered solutions." />
         <meta name="viewport" content="width=device-width" />
         <meta name="keywords" content="nahuel avila, portfolio, programmer, coding, javascript, nodejs, python"/>
       </Head>
