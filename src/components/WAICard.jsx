@@ -9,28 +9,7 @@ export function WAICard() {
                         className="wai-card-img mx-auto shadow-xl rounded-full border-[0.15rem] hover:scale-105 transition-transform duration-300" 
                         alt='profile photo' 
                         src="/me.png" 
-                        width='240' 
-                        height='240' 
-                        quality='100'
-                        priority 
-                    />
-                </picture>
-                <div className="social-media flex gap-4 place-content-center">
-                    <a href='https://www.linkedin.com/in/nahuel-avila/' target="_blank" rel="noopener noreferrer" className="hover:scale-110 transition-transform">
-                        <Image src="/linkedin.svg" alt="LinkedIn" width='28' height='28' />
-                    </a>    
-                    <a href='https://github.com/nahuelavila' target="_blank" rel="noopener noreferrer" className="hover:scale-110 transition-transform">
-                        <Image src="/github.svg" alt="GitHub" width='28' height='28' />
-                    </a>    
-                </div>
-                <div className="horizontal-line bg-white/10 h-0.5"></div>
-                <h1 className="wai-card-title font-roboto font-bold text-3xl sm:text-4xl md:text-5xl leading-tight">Hi there! 👋</h1>
-                <div className="space-y-2">
-                    <p className="wai-card-subtitle font-roboto font-light text-base sm:text-lg md:text-xl">I&apos;m Nahuel Avila</p>
-                    <p className="wai-card-subtitle font-roboto font-light text-base sm:text-lg md:text-xl">Software Developer</p>
-                    <p className="wai-card-subtitle font-roboto font-light text-xs sm:text-sm md:text-base flex items-center justify-center gap-1">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                            <path d="M12 21s-8-4.5-8-11.8A8 8 0 0 1 12 2a8 8 0 0 1 8 7.2c0 7.3-8 11.8-8 11.8z" />
+                       
                             <circle cx="12" cy="10" r="3" />
                         </svg>
                         <span>Montevideo, Uruguay</span>
