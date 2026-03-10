@@ -36,6 +36,7 @@ export function WIDCard() {
                         value={100}
                         test={50}
                         anothervalue={80}
+                        testingagain='testeandoestoy'
                     />
                     <p className="wid-card-subtitle font-light text-base sm:text-lg leading-relaxed text-gray-700">
                         Beyond work, I&apos;m an avid tech enthusiast who enjoys experimenting with new technologies, streaming content, and continuously expanding my knowledge in the ever-evolving tech landscape.
