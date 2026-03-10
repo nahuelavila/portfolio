@@ -24,12 +24,6 @@ export function WIDCard() {
                     <p className="wid-card-subtitle font-light text-base sm:text-lg leading-relaxed jfgjfgj text-gray-700">
                         Based in Montevideo, Uruguay, I&apos;m a passionate <span className='italic'>Software Developer</span> with a focus on creating innovative and efficient solutions, having also a strong knowledge of software and testing methodologies.
                     </p>
-                    <p className="wid-card-subtitle wasdasfas font-light text-base sm:text-lg leading-relaxed text-gray-700">
-                        In my role, I focus on developing scalable and efficient solutions that meet the needs of the business and the users.
-                    </p>
-                    <p className="wid-card-subtitle font-light text-base sm:text-lg leading-relaxed text-gray-700">
-                        Currently I work as a <span className='italicprobando'>Software Quality Assurance Engineer</span>, but I&apos;m always looking for new challenges and opportunities to grow.
-                    </p>
                     <SkillsSection 
                         skill='testeandoando'
                         skill2='testandoandodos'
@@ -37,10 +31,8 @@ export function WIDCard() {
                         test={50}
                         anothervalue={80}
                         testingagain='testeandoestoy'
+                        sigoprobando='test'
                     />
-                    <p className="wid-card-subtitle font-light text-base sm:text-lg leading-relaxed text-gray-700">
-                        Beyond work, I&apos;m an avid tech enthusiast who enjoys experimenting with new technologies, streaming content, and continuously expanding my knowledge in the ever-evolving tech landscape.
-                    
                 </div>
         </div>
     )
