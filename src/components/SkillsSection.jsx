@@ -4,12 +4,7 @@ export function SkillsSection() {
     return (
         <div className="bg-gradient-to-br from-gray-50 to-gray-100 rounded-xl sm:rounded-2xl p-4 sm:p-6 md:p-8 shadow-lg my-6 sm:my-8 md:my-10 border border-gray-200">
             <h3 className="text-2xl sm:text-3xl font-bold text-gray-800 mb-4 sm:mb-6 md:mb-8 text-center relative">
-                <span className="relative inline-block after:content-[''] after:absolute after:w-1/2 after:h-1 after:bg-gray-500 after:bottom-0 after:left-1/4 after:rounded-full pb-2">
-                    My Tech Stack
-                </span>
-            </h3>
-            
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-6 md:gap-8">
+            ame="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-6 md:gap-8">
 
                 <div className="bg-white rounded-lg sm:rounded-xl p-4 sm:p-6 shadow-md hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1 border-l-4 border-black">
                     <p className="font-semibold text-lg sm:text-xl text-gray-800 mb-3 sm:mb-4 flex items-center">
