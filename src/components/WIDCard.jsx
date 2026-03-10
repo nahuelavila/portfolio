@@ -2,6 +2,7 @@ import Image from 'next/image'
 import { SkillsSection } from './SkillsSection'
 import { Test } from './ArchivoTest'
 import { Test2 } from './ArchivoTestDos'
+import { Test3 } from './ArchivoTestDos'
 
 export function WIDCard() {
     return(
