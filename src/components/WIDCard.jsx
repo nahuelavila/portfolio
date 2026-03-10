@@ -31,8 +31,10 @@ export function WIDCard() {
                         Currently I work as a <span className='italicprobando'>Software Quality Assurance Engineer</span>, but I&apos;m always looking for new challenges and opportunities to grow.
                     </p>
                     <SkillsSection 
-                        skill=100
-                        test=10 
+                        skill='testeandoando'
+                        skill2='testandoandodos'
+                        value={100}
+                        test={50} 
                     />
                     <p className="wid-card-subtitle font-light text-base sm:text-lg leading-relaxed text-gray-700">
                         Beyond work, I&apos;m an avid tech enthusiast who enjoys experimenting with new technologies, streaming content, and continuously expanding my knowledge in the ever-evolving tech landscape.
