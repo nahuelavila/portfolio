@@ -32,6 +32,7 @@ export function WIDCard() {
                         anothervalue={80}
                         testingagain='testeandoestoy'
                         sigoprobando='test'
+                        asdasdasd="asdasdasdsd"
                     />
                 </div>
         </div>
