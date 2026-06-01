@@ -13,7 +13,7 @@ export function WIDCard() {
                         alt="coding illustration" 
                         width='300' 
                         height='300' 
-                        src='/computer.svg'
+                        src='/svg/computer.svg'
                         priority 
                     />
                 </div>

@@ -8,7 +8,7 @@ export function WAICard() {
                     <Image 
                         className="wai-card-img mx-auto shadow-xl rounded-full border-[0.15rem] hover:scale-105 transition-transform duration-300" 
                         alt='profile photo' 
-                        src="/me.png" 
+                        src="/img/me.png" 
                         width='240' 
                         height='240' 
                         quality='100'
@@ -17,10 +17,10 @@ export function WAICard() {
                 </picture>
                 <div className="social-media flex gap-4 place-content-center">
                     <a href='https://www.linkedin.com/in/nahuel-avila/' target="_blank" rel="noopener noreferrer" className="hover:scale-110 transition-transform">
-                        <Image src="/linkedin.svg" alt="LinkedIn" width='28' height='28' />
+                        <Image src="/svg/linkedin.svg" alt="LinkedIn" width='28' height='28' />
                     </a>    
                     <a href='https://github.com/nahuelavila' target="_blank" rel="noopener noreferrer" className="hover:scale-110 transition-transform">
-                        <Image src="/github.svg" alt="GitHub" width='28' height='28' />
+                        <Image src="/svg/github.svg" alt="GitHub" width='28' height='28' />
                     </a>    
                 </div>
                 <div className="horizontal-line bg-white/10 h-0.5"></div>
@@ -57,7 +57,7 @@ export function WAICard() {
             <div className="arrow-down-text mt-8 sm:mt-12 md:mt-16">
                 <a href="#whatido" className="grid place-items-center gap-2 animate-bounce">
                     <p className="wai-card-subtitle font-roboto font-light text-base sm:text-lg md:text-xl text-gray-300">Scroll down to know more about me</p>
-                    <Image src="/arrow-down.svg" alt="arrow-down" width='24' height='24' />
+                    <Image src="/svg/arrow-down.svg" alt="arrow-down" width='24' height='24' />
                 </a>
             </div>
         </div>

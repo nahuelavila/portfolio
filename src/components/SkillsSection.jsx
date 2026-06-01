@@ -22,23 +22,23 @@ export function SkillsSection() {
                     </p>
                     <div className="flex flex-wrap gap-2 sm:gap-4">
                         <span className="flex items-center gap-2 sm:gap-3 bg-gray-50 rounded-full px-3 sm:px-4 py-2 transition-colors duration-300 border border-gray-200">
-                            <Image className="hover:animate-spin" alt="python" width='28' height='28' src="/python.svg" />
+                            <Image className="hover:animate-spin" alt="python" width='28' height='28' src="/svg/python.svg" />
                             <span className="text-xs sm:text-sm font-medium text-gray-700">Python</span>
                         </span>
                         <span className="flex items-center gap-2 sm:gap-3 bg-gray-50 rounded-full px-3 sm:px-4 py-2 transition-colors duration-300 border border-gray-200">
-                            <Image alt="javascript" width='28' height='28' src="/js.svg" />
+                            <Image alt="javascript" width='28' height='28' src="/svg/js.svg" />
                             <span className="text-xs sm:text-sm font-medium text-gray-700">JavaScript</span>
                         </span>
                         <span className="flex items-center gap-2 sm:gap-3 bg-gray-50 rounded-full px-3 sm:px-4 py-2 transition-colors duration-300 border border-gray-200">
-                            <Image alt="java" width='28' height='28' src="/java.png" />
+                            <Image alt="java" width='28' height='28' src="/img/java.png" />
                             <span className="text-xs sm:text-sm font-medium text-gray-700">Java</span>
                         </span>
                         <span className="flex items-center gap-2 sm:gap-3 bg-gray-50 rounded-full px-3 sm:px-4 py-2 transition-colors duration-300 border border-gray-200">
-                            <Image alt="nodejs" width='28' height='28' src="/nodejs.svg" />
+                            <Image alt="nodejs" width='28' height='28' src="/svg/nodejs.svg" />
                             <span className="text-xs sm:text-sm font-medium text-gray-700">Node.js</span>
                         </span>
                         <span className="flex items-center gap-2 sm:gap-3 bg-gray-50 rounded-full px-3 sm:px-4 py-2 transition-colors duration-300 border border-gray-200">
-                            <Image alt="dotnet" width='28' height='28' src="/dotnet.png" />
+                            <Image alt="dotnet" width='28' height='28' src="/img/dotnet.png" />
                             <span className="text-xs sm:text-sm font-medium text-gray-700">.NET</span>
                         </span>
                     </div>
@@ -55,23 +55,23 @@ export function SkillsSection() {
                     </p>
                     <div className="flex flex-wrap gap-2 sm:gap-4">
                         <span className="flex items-center gap-2 sm:gap-3 bg-gray-50 rounded-full px-3 sm:px-4 py-2 transition-colors duration-300 border border-gray-200">
-                            <Image alt="html" width='28' height='28' src="/html.png" />
+                            <Image alt="html" width='28' height='28' src="/img/html.png" />
                             <span className="text-xs sm:text-sm font-medium text-gray-700">HTML</span>
                         </span>
                         <span className="flex items-center gap-2 sm:gap-3 bg-gray-50 rounded-full px-3 sm:px-4 py-2 transition-colors duration-300 border border-gray-200">
-                            <Image alt="css" width='28' height='28' src="/css.png" />
+                            <Image alt="css" width='28' height='28' src="/img/css.png" />
                             <span className="text-xs sm:text-sm font-medium text-gray-700">CSS</span>
                         </span>
                         <span className="flex items-center gap-2 sm:gap-3 bg-gray-50 rounded-full px-3 sm:px-4 py-2 transition-colors duration-300 border border-gray-200">
-                            <Image alt="react" width='28' height='28' src="/react.svg" />
+                            <Image alt="react" width='28' height='28' src="/img/react.svg" />
                             <span className="text-xs sm:text-sm font-medium text-gray-700">React</span>
                         </span>
                         <span className="flex items-center gap-2 sm:gap-3 bg-gray-50 rounded-full px-3 sm:px-4 py-2 transition-colors duration-300 border border-gray-200">
-                            <Image alt="nextjs" width='28' height='28' src="/next.png" />
+                            <Image alt="nextjs" width='28' height='28' src="/img/next.png" />
                             <span className="text-xs sm:text-sm font-medium text-gray-700">Next.js</span>
                         </span>
                         <span className="flex items-center gap-2 sm:gap-3 bg-gray-50 rounded-full px-3 sm:px-4 py-2 transition-colors duration-300 border border-gray-200">
-                            <Image alt="genexus" width='28' height='28' src="/gx.png" />
+                            <Image alt="genexus" width='28' height='28' src="/img/gx.png" />
                             <span className="text-xs sm:text-sm font-medium text-gray-700">GeneXus</span>
                         </span>
                     </div>
@@ -88,15 +88,15 @@ export function SkillsSection() {
                     </p>
                     <div className="flex flex-wrap gap-2 sm:gap-4">
                         <span className="flex items-center gap-2 sm:gap-3 bg-gray-50 rounded-full px-3 sm:px-4 py-2 transition-colors duration-300 border border-gray-200">
-                            <Image alt="cypress" width='28' height='28' src="/cypress.svg" />
+                            <Image alt="cypress" width='28' height='28' src="/svg/cypress.svg" />
                             <span className="text-xs sm:text-sm font-medium text-gray-700">Cypress</span>
                         </span>
                         <span className="flex items-center gap-2 sm:gap-3 bg-gray-50 rounded-full px-3 sm:px-4 py-2 transition-colors duration-300 border border-gray-200">
-                            <Image alt="playwright" width='28' height='28' src="/playwright.svg" />
+                            <Image alt="playwright" width='28' height='28' src="/svg/playwright.svg" />
                             <span className="text-xs sm:text-sm font-medium text-gray-700">Playwright</span>
                         </span>
                         <span className="flex items-center gap-2 sm:gap-3 bg-gray-50 rounded-full px-3 sm:px-4 py-2 transition-colors duration-300 border border-gray-200">
-                            <Image alt="git" width='28' height='28' src="/git.png" />
+                            <Image alt="git" width='28' height='28' src="/img/git.png" />
                             <span className="text-xs sm:text-sm font-medium text-gray-700">Git</span>
                         </span>
                     </div>
@@ -115,11 +115,11 @@ export function SkillsSection() {
                     </p>
                     <div className="flex flex-wrap gap-4">
                         <span className="flex items-center gap-3 bg-gray-50 rounded-full px-4 py-2 transition-colors duration-300 border border-gray-200">
-                            <Image alt="mysql" width='36' height='36' src="/mysql.png" />
+                            <Image alt="mysql" width='36' height='36' src="/img/mysql.png" />
                             <span className="text-sm font-medium text-gray-700 hidden md:inline">MySQL</span>
                         </span>
                         <span className="flex items-center gap-3 bg-gray-50 rounded-full px-4 py-2 transition-colors duration-300 border border-gray-200">
-                            <Image alt="mongodb" width='12' height='12' src="/mongodb.png" />
+                            <Image alt="mongodb" width='12' height='12' src="/img/mongodb.png" />
                             <span className="text-sm font-medium text-gray-700 hidden md:inline">MongoDB</span>
                         </span>
                     </div>
