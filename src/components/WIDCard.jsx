@@ -25,7 +25,7 @@ export function WIDCard() {
                         In my role, I focus on developing scalable and efficient solutions that meet the needs of the business and the users.
                     </p>
                     <p className="wid-card-subtitle font-light text-base sm:text-lg leading-relaxed text-gray-700">
-                        Currently I work as a <span className='italic'>Software Quality Assurance Engineer</span>, but I&apos;m always looking for new challenges and opportunities to grow.
+                        Currently I work as a <span className='italic'>Fullstack Developer</span>, but I&apos;m always looking for new challenges and opportunities to grow.
                     </p>
                     <SkillsSection />
                     <p className="wid-card-subtitle font-light text-base sm:text-lg leading-relaxed text-gray-700">
