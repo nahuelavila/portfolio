@@ -63,7 +63,7 @@ export function SkillsSection() {
                             <span className="text-xs sm:text-sm font-medium text-gray-700">CSS</span>
                         </span>
                         <span className="flex items-center gap-2 sm:gap-3 bg-gray-50 rounded-full px-3 sm:px-4 py-2 transition-colors duration-300 border border-gray-200">
-                            <Image alt="react" width='28' height='28' src="/img/react.svg" />
+                            <Image alt="react" width='28' height='28' src="/svg/react.svg" />
                             <span className="text-xs sm:text-sm font-medium text-gray-700">React</span>
                         </span>
                         <span className="flex items-center gap-2 sm:gap-3 bg-gray-50 rounded-full px-3 sm:px-4 py-2 transition-colors duration-300 border border-gray-200">
